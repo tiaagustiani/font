@@ -1,3 +1,2 @@
-Welcome
-Berikut font yang telah saya buat
+Belajar membuat font
 
